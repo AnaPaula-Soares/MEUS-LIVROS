@@ -1,4 +1,6 @@
 # MEUS-LIVROS
+Curso UDEMY - https://www.udemy.com/course/conceitos-de-teste-e-processo-com-ia/
+
 Portifólio  Literário
 
 https://portfolio-literario-isr5lpx.gamma.site/
